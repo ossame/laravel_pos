@@ -1,10 +1,10 @@
 Welcome to the Laravel POS project, your ultimate solution for streamlining Point of Sale (POS) operations with ease and efficiency. Our open-source software is specifically designed for businesses of all sizes, providing a powerful and user-friendly platform to manage sales, inventory, and customer data.
 
-<a href="https://ibb.co/KwD0RNy"><img src="https://i.ibb.co/k1JHk3c/Capture-d-cran-2023-08-04-112829.png" alt="Capture-d-cran-2023-08-04-112829" border="0" /></a><img src="https://ibb.co/sQqkk7j" alt="img">
-<a href="https://ibb.co/sQqkk7j"><img src="https://i.ibb.co/3WcGGK1/Capture-d-cran-2023-08-04-113723.png" alt="Capture-d-cran-2023-08-04-113723" border="0" /></a>
-<a href="https://ibb.co/ZY5NMgx"><img src="https://i.ibb.co/MGr9C17/Capture-d-cran-2023-08-04-113810.png" alt="Capture-d-cran-2023-08-04-113810" border="0" /></a>
-<a href="https://ibb.co/C7663Tq"><img src="https://i.ibb.co/2tSS1fw/Capture-d-cran-2023-08-04-113848.png" alt="Capture-d-cran-2023-08-04-113848" border="0" /></a>
-<a href="https://ibb.co/mCvm4Xz"><img src="https://i.ibb.co/kg3pX9c/Capture-d-cran-2023-08-04-113919.png" alt="Capture-d-cran-2023-08-04-113919" border="0" /></a>
+<a href="https://ibb.co/KwD0RNy"><img src="https://i.ibb.co/k1JHk3c/Capture-d-cran-2023-08-04-112829.png" alt="img" border="0" /></a>
+<a href="https://ibb.co/sQqkk7j"><img src="https://i.ibb.co/3WcGGK1/Capture-d-cran-2023-08-04-113723.png" alt="img" border="0" /></a>
+<a href="https://ibb.co/ZY5NMgx"><img src="https://i.ibb.co/MGr9C17/Capture-d-cran-2023-08-04-113810.png" alt="img" border="0" /></a>
+<a href="https://ibb.co/C7663Tq"><img src="https://i.ibb.co/2tSS1fw/Capture-d-cran-2023-08-04-113848.png" alt="img" border="0" /></a>
+<a href="https://ibb.co/mCvm4Xz"><img src="https://i.ibb.co/kg3pX9c/Capture-d-cran-2023-08-04-113919.png" alt="img" border="0" /></a>
 
 
 Key Features:
